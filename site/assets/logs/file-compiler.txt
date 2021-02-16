@@ -1,0 +1,2 @@
+2021-02-14 07:20:50	guest	http://localhost/processwire-master/processwire-master/	Compiled file: /site/templates/home.php
+2021-02-16 12:31:38	admin	http://localhost/processwire-master/processwire-master/portfolio/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/basic-page.php

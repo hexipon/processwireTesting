@@ -1,0 +1,31 @@
+2021-02-14 07:20:45	?	?	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:45	?	?	Saved module info caches
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Saved module info caches
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Installed module 'ProcessRecentPages'
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Saved module info caches
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Saved module info caches
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Installed module 'AdminThemeUikit'
+2021-02-14 07:20:45	guest	http://localhost/processwire-master/processwire-master/http404/	Saved module info caches
+2021-02-14 07:20:47	guest	http://localhost/processwire-master/processwire-master/admin/login/	Saved module 'ProcessProfile' config data
+2021-02-14 07:20:47	guest	http://localhost/processwire-master/processwire-master/admin/login/	Saved module info caches
+2021-02-14 07:20:48	guest	http://localhost/processwire-master/processwire-master/admin/login/	Installed module 'ProcessLogger'
+2021-02-14 07:20:48	guest	http://localhost/processwire-master/processwire-master/admin/login/	Saved module info caches
+2021-02-14 07:20:48	guest	http://localhost/processwire-master/processwire-master/admin/login/	Installed module 'InputfieldIcon'
+2021-02-14 07:20:48	guest	http://localhost/processwire-master/processwire-master/admin/login/	Saved module info caches
+2021-02-14 07:20:48	guest	http://localhost/processwire-master/processwire-master/admin/login/	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:50	guest	http://localhost/processwire-master/processwire-master/	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:55	?	?	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:55	?	?	Saved module info caches
+2021-02-14 07:20:55	guest	http://localhost/processwire-master/processwire-master/admin/login/	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:55	admin	http://localhost/processwire-master/processwire-master/admin/?login=1	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:55	?	?	Saved module info caches
+2021-02-14 07:20:55	?	?	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:55	?	?	Saved module info caches
+2021-02-14 07:20:55	admin	http://localhost/processwire-master/processwire-master/admin/page/?login=1	Saved module 'SystemUpdater' config data
+2021-02-14 07:20:56	admin	http://localhost/processwire-master/processwire-master/admin/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
+2021-02-14 07:21:00	admin	http://localhost/processwire-master/processwire-master/	Saved module 'SystemUpdater' config data
+2021-02-16 11:28:28	admin	http://localhost/processwire-master/processwire-master/admin/module/edit?name=AdminThemeDefault&collapse_info=1	Saved module 'AdminThemeDefault' config data
+2021-02-16 11:28:33	admin	http://localhost/processwire-master/processwire-master/admin/module/edit?name=AdminThemeDefault&collapse_info=1	Saved module 'AdminThemeDefault' config data
+2021-02-16 11:37:27	admin	http://localhost/processwire-master/processwire-master/admin/page/add/bookmarks/?role=0	Saved module 'ProcessPageAdd' config data
+2021-02-16 11:38:11	admin	http://localhost/processwire-master/processwire-master/admin/page/add/bookmarks/?role=0	Saved module 'ProcessPageAdd' config data

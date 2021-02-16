@@ -1,0 +1,6 @@
+2021-02-16 07:43:49	admin	http://localhost/processwire-master/processwire-master/admin/page/add/	Populated initial created/modified dates for 'Self_photo_s_' (FieldtypeImage)
+2021-02-16 07:43:49	admin	http://localhost/processwire-master/processwire-master/admin/page/add/	Populated initial created/modified dates for 'Website_favicon' (FieldtypeImage)
+2021-02-16 11:41:38	admin	http://localhost/processwire-master/processwire-master/admin/page/sort/	Updated sort for 6 pages (ProcessPageSort)
+2021-02-16 11:57:57	admin	http://localhost/processwire-master/processwire-master/admin/page/sort/	Updated sort for 5 pages (ProcessPageSort)
+2021-02-16 14:24:10	admin	http://localhost/processwire-master/processwire-master/admin/page/sort/	Updated sort for 6 pages (ProcessPageSort)
+2021-02-16 14:42:02	admin	http://localhost/processwire-master/processwire-master/admin/setup/template/removeFields	Deleted field "email" data in 1 row(s) from 1 page(s) using template "GlobalData". [page-by-page] (Fields)
