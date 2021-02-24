@@ -8,27 +8,25 @@ body {
   }
   .logo{
     background-color:#050515; 
-    vertical-align: baseline;
     height: 100px;
     min-width: 285px;
   }
   .logo h1{
     font-size: 35px;
     color: #FFFAF0;
-    text-align: left;
     margin: 0px;
     text-decoration: none;
   }
   .logo p{
     font-size: 20px;
     color: #DCDCDC;
-    text-align: left;
     margin: 0px;
   }
   .logo #logoImg {
     filter: grayscale();
     float: left;
     height: 100%;
+    padding-right: 5px;
   }
   
   #nav {

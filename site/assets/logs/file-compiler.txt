@@ -1,2 +1,8 @@
 2021-02-14 07:20:50	guest	http://localhost/processwire-master/processwire-master/	Compiled file: /site/templates/home.php
 2021-02-16 12:31:38	admin	http://localhost/processwire-master/processwire-master/portfolio/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/basic-page.php
+2021-02-17 13:47:28	admin	http://localhost/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/amout_me.php
+2021-02-17 13:47:28	admin	http://localhost/	Maintenance/Copy new version of source file to target file: /site/templates/sendEmail.php => /site/assets/cache/FileCompiler/site/templates/sendEmail.php
+2021-02-17 16:55:55	admin	http://localhost/admin/module/download/	Compiled file: /site/modules/AllInOneMinify/AllInOneMinify.module
+2021-02-17 17:04:17	admin	http://localhost/admin/module/?reset=1	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module.php
+2021-02-24 12:07:27	?	?	Compiled file: /site/modules/MarkupSEO/MarkupSEO.module.php
+2021-02-24 12:08:58	?	?	Compiled file: /site/modules/AllInOneMinify/AllInOneMinify.module

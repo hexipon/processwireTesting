@@ -5,3 +5,7 @@
 2021-02-15 13:36:26	admin	http://localhost/processwire-master/processwire-master/admin/login/	Successful login for 'admin'
 2021-02-16 09:17:20	admin	http://localhost/processwire-master/processwire-master/admin/login/	Successful login for 'admin'
 2021-02-16 10:08:00	admin	http://localhost/processwire-master/processwire-master/admin/login/	Successful login for 'admin'
+2021-02-19 12:55:40	admin	http://localhost/admin/login/	Successful login for 'admin'
+2021-02-23 20:15:30	admin	http://localhost/admin/login/	Successful login for 'admin'
+2021-02-24 12:14:57	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-02-24 15:41:32	admin	http://localhost/admin/login/	Successful login for 'admin'

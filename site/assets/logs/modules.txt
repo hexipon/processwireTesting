@@ -29,3 +29,49 @@
 2021-02-16 11:28:33	admin	http://localhost/processwire-master/processwire-master/admin/module/edit?name=AdminThemeDefault&collapse_info=1	Saved module 'AdminThemeDefault' config data
 2021-02-16 11:37:27	admin	http://localhost/processwire-master/processwire-master/admin/page/add/bookmarks/?role=0	Saved module 'ProcessPageAdd' config data
 2021-02-16 11:38:11	admin	http://localhost/processwire-master/processwire-master/admin/page/add/bookmarks/?role=0	Saved module 'ProcessPageAdd' config data
+2021-02-17 16:55:54	admin	http://localhost/admin/module/download/	Saved module info caches
+2021-02-17 16:55:55	admin	http://localhost/admin/module/download/	Saved module info caches
+2021-02-17 16:55:56	admin	http://localhost/admin/module/	Installed module 'AllInOneMinify'
+2021-02-17 16:55:57	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-17 16:57:30	admin	http://localhost/admin/module/download/	Saved module info caches
+2021-02-17 16:57:31	admin	http://localhost/admin/module/download/	Saved module info caches
+2021-02-17 16:57:32	admin	http://localhost/admin/module/	Installed module 'InputfieldSeoMaestro'
+2021-02-17 16:57:32	admin	http://localhost/admin/module/	Installed module 'FieldtypeSeoMaestro'
+2021-02-17 16:57:32	admin	http://localhost/admin/module/	Installed module 'SeoMaestro'
+2021-02-17 16:57:32	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-17 17:04:17	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-17 17:04:17	admin	http://localhost/admin/module/?reset=1	Saved module info caches
+2021-02-17 17:04:23	admin	http://localhost/admin/module/	Installed module 'FieldtypeOptions'
+2021-02-17 17:04:23	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-17 17:04:24	admin	http://localhost/admin/module/	Installed module 'MarkupSEO'
+2021-02-17 17:04:24	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-17 17:05:10	admin	http://localhost/admin/module/edit?name=MarkupSEO	Saved module 'MarkupSEO' config data
+2021-02-17 17:07:11	admin	http://localhost/admin/module/edit?name=MarkupSEO	Saved module 'MarkupSEO' config data
+2021-02-19 12:58:58	admin	http://localhost/admin/module/	Saved module 'FieldtypeRepeater' config data
+2021-02-19 12:58:58	admin	http://localhost/admin/module/	Installed module 'InputfieldRepeater'
+2021-02-19 12:58:58	admin	http://localhost/admin/module/	Installed module 'FieldtypeRepeater'
+2021-02-19 12:58:58	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-19 12:59:02	admin	http://localhost/admin/module/edit?name=FieldtypeRepeater	Saved module 'FieldtypeRepeater' config data
+2021-02-19 12:59:05	admin	http://localhost/admin/module/edit?name=FieldtypeRepeater&collapse_info=1	Saved module 'FieldtypeRepeater' config data
+2021-02-19 12:59:11	admin	http://localhost/admin/module/edit?name=FieldtypeRepeater&collapse_info=1	Saved module 'FieldtypeRepeater' config data
+2021-02-19 12:59:12	admin	http://localhost/admin/module/edit?name=FieldtypeRepeater&collapse_info=1	Saved module 'FieldtypeRepeater' config data
+2021-02-19 12:59:13	admin	http://localhost/admin/module/edit?name=FieldtypeRepeater&collapse_info=1	Saved module 'FieldtypeRepeater' config data
+2021-02-19 12:59:15	admin	http://localhost/admin/module/edit?name=FieldtypeRepeater&collapse_info=1	Saved module 'FieldtypeRepeater' config data
+2021-02-24 12:02:14	admin	http://localhost/admin/module/edit?name=SeoMaestro&collapse_info=1	Uninstalled module 'InputfieldSeoMaestro'
+2021-02-24 12:02:14	admin	http://localhost/admin/module/edit?name=SeoMaestro&collapse_info=1	Saved module info caches
+2021-02-24 12:02:14	admin	http://localhost/admin/module/edit?name=SeoMaestro&collapse_info=1	Uninstalled module 'FieldtypeSeoMaestro'
+2021-02-24 12:02:14	admin	http://localhost/admin/module/edit?name=SeoMaestro&collapse_info=1	Saved module info caches
+2021-02-24 12:02:14	admin	http://localhost/admin/module/edit?name=SeoMaestro&collapse_info=1	Uninstalled module 'SeoMaestro'
+2021-02-24 12:02:14	admin	http://localhost/admin/module/edit?name=SeoMaestro&collapse_info=1	Saved module info caches
+2021-02-24 12:08:14	admin	http://localhost/admin/module/edit?name=MarkupSEO&collapse_info=1	Uninstalled module 'MarkupSEO'
+2021-02-24 12:08:14	admin	http://localhost/admin/module/edit?name=MarkupSEO&collapse_info=1	Saved module info caches
+2021-02-24 12:08:30	admin	http://localhost/admin/module/	Failed to delete module 'FieldtypeSeoMaestro'
+2021-02-24 12:09:08	admin	http://localhost/admin/module/	Failed to delete module 'InputfieldSeoMaestro'
+2021-02-24 15:56:18	admin	http://localhost/admin/page/add/bookmarks/?role=0	Saved module 'ProcessPageAdd' config data
+2021-02-24 17:38:38	admin	http://localhost/admin/module/download/	Saved module info caches
+2021-02-24 17:38:41	admin	http://localhost/admin/module/download/	Saved module info caches
+2021-02-24 17:38:43	admin	http://localhost/admin/module/	Installed module 'InputfieldSeoMaestro'
+2021-02-24 17:38:43	admin	http://localhost/admin/module/	Installed module 'FieldtypeSeoMaestro'
+2021-02-24 17:38:43	admin	http://localhost/admin/module/	Installed module 'SeoMaestro'
+2021-02-24 17:38:43	admin	http://localhost/admin/module/	Saved module info caches
+2021-02-24 17:38:45	admin	http://localhost/admin/module/edit?name=SeoMaestro	Saved module 'SeoMaestro' config data

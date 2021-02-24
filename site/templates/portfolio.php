@@ -70,10 +70,10 @@
         $text = strtolower($_GET['search']);
       }
         $num=1;
-        $colour = $num % 2 == 0 ? '#101010' : '#1e1e1e';
         $output='';
-        foreach($portFolioEntries as $entry)
+        foreach($page->portfolioEntries as $entry)
         {
+        $colour = $num % 2 == 0 ? '#101010' : '#1e1e1e';
           if($searching==false || ((strstr(strtolower($entry->title), $text)) || (strstr(strtolower($entry->LanguageTags), $text))))
           {
           $output.=" 
